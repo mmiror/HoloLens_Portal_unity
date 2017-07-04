@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>HoloLens_Portal</UnityWSASolutionName>
+        <UnityWSASolutionDir>D:\1hololens\HoloLens_Portal\output\</UnityWSASolutionDir>
+        <UnityProjectDir>D:\1hololens\HoloLens_Portal\</UnityProjectDir>
+        <UnityWSAPlayerDir>D:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>

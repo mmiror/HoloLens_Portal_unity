@@ -512,7 +512,7 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: HoloLens_Portal
   metroPackageVersion: 
-  metroCertificatePath: D:\1hololens\HoloLens_Portal\Assets\WSATestCertificate.pfx
+  metroCertificatePath: Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
   metroCertificateSubject: DefaultCompany
   metroCertificateIssuer: DefaultCompany

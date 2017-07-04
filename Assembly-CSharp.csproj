@@ -281,6 +281,7 @@
      <Compile Include="Assets\HoloToolkit\Utilities\Scripts\WorldAnchorManager.cs" />
      <Compile Include="Assets\HoloToolkit\Utilities\Shaders\FastConfigurable\Scripts\CalibrationSpace.cs" />
      <Compile Include="Assets\portal.cs" />
+     <Compile Include="Assets\teleport.cs" />
      <None Include="Assets\HoloToolkit\Input\Shaders\EditorHands.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
